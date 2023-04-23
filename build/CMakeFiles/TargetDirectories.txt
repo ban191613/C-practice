@@ -1,0 +1,3 @@
+C:/Users/dell/Desktop/C++ learn/build/CMakeFiles/Cmake_Cpp.dir
+C:/Users/dell/Desktop/C++ learn/build/CMakeFiles/edit_cache.dir
+C:/Users/dell/Desktop/C++ learn/build/CMakeFiles/rebuild_cache.dir

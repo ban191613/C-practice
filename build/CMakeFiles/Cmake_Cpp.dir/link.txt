@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Cmake_Cpp.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\Cmake_Cpp.dir/objects.a @CMakeFiles\Cmake_Cpp.dir\objects1
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Cmake_Cpp.dir/objects.a -Wl,--no-whole-archive -o Cmake_Cpp.exe -Wl,--out-implib,libCmake_Cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Cmake_Cpp.dir\linkLibs.rsp

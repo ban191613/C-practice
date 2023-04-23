@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/dell/Desktop/C++ learn/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Cmake_Cpp.dir/includes_CXX.rsp -g -o CMakeFiles\\Cmake_Cpp.dir\\src\\main.obj -c \"C:\\Users\\dell\\Desktop\\C++ learn\\src\\main.cpp\"",
+  "file": "C:/Users/dell/Desktop/C++ learn/src/main.cpp"
+}
+]
